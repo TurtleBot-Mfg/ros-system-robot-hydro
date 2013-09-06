@@ -1,0 +1,12 @@
+Source: ros-system-robot-hydro
+Maintainer: I Heart Engineering <code@iheartengineering.com>
+Section: python
+Priority: optional
+Build-Depends: python (>= 2.6.6-3), debhelper (>= 7.4.3)
+Standards-Version: 3.9.3
+
+Package: ros-system-robot-hydro
+Architecture: all
+Depends: ${misc:Depends}, ${python:Depends}
+Description: Robot controller for ROS
+ Provides a common interface for controlling robot hardware in ROS.
