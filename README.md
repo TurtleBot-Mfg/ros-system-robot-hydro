@@ -1,5 +1,3 @@
-aV
-
 The indicator gui seems like it will solve most of the problems with
 running  ROS as user 'ros'.
 However, users connecting via ssh will need a command line tool to
